@@ -23,6 +23,7 @@ namespace HozyaHtmlParser
          *  1) autosave - отключает диалог сохранения изображений
          *  2) 88005553535 - авто вставка номера телефона
          *  3) "http:\\hozya.ru" - адрес страницы объявления
+         * 1
          */
 
         private static readonly GlobalSettings MyGlobalSettings = new GlobalSettings();
